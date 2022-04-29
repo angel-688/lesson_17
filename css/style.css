@@ -1778,7 +1778,7 @@ body {
       text-align: center;
       overflow: visible;
       white-space: normal;
-      text-overflow: none;
+      text-overflow: clip;
    }
 }
 
